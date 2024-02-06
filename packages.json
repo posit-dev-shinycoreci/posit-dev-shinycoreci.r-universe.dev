@@ -1,0 +1,130 @@
+[
+  {
+    "package": "cachem",
+    "url": "https://github.com/r-lib/cachem"
+  },
+  {
+    "package": "fastmap",
+    "url": "https://github.com/r-lib/fastmap"
+  },
+  {
+    "package": "later",
+    "url": "https://github.com/r-lib/later"
+  },
+  {
+    "package": "bslib",
+    "url": "https://github.com/rstudio/bslib"
+  },
+  {
+    "package": "bsicons",
+    "url": "https://github.com/rstudio/bsicons"
+  },
+  {
+    "package": "htmlwidgets",
+    "url": "https://github.com/ramnathv/htmlwidgets"
+  },
+  {
+    "package": "crosstalk",
+    "url": "https://github.com/rstudio/crosstalk"
+  },
+  {
+    "package": "gt",
+    "url": "https://github.com/rstudio/gt"
+  },
+  {
+    "package": "DT",
+    "url": "https://github.com/rstudio/DT"
+  },
+  {
+    "package": "dygraphs",
+    "url": "https://github.com/rstudio/dygraphs"
+  },
+  {
+    "package": "flexdashboard",
+    "url": "https://github.com/rstudio/flexdashboard"
+  },
+  {
+    "package": "fontawesome",
+    "url": "https://github.com/rstudio/fontawesome"
+  },
+  {
+    "package": "htmltools",
+    "url": "https://github.com/rstudio/htmltools"
+  },
+  {
+    "package": "httpuv",
+    "url": "https://github.com/rstudio/httpuv"
+  },
+  {
+    "package": "leaflet",
+    "url": "https://github.com/rstudio/leaflet"
+  },
+  {
+    "package": "pool",
+    "url": "https://github.com/rstudio/pool"
+  },
+  {
+    "package": "promises",
+    "url": "https://github.com/rstudio/promises"
+  },
+  {
+    "package": "reactlog",
+    "url": "https://github.com/rstudio/reactlog"
+  },
+  {
+    "package": "sass",
+    "url": "https://github.com/rstudio/sass"
+  },
+  {
+    "package": "shiny",
+    "url": "https://github.com/rstudio/shiny"
+  },
+  {
+    "package": "shinymeta",
+    "url": "https://github.com/rstudio/shinymeta"
+  },
+  {
+    "package": "shinytest",
+    "url": "https://github.com/rstudio/shinytest"
+  },
+  {
+    "package": "chromote",
+    "url": "https://github.com/rstudio/chromote"
+  },
+  {
+    "package": "shinytest2",
+    "url": "https://github.com/rstudio/shinytest2"
+  },
+  {
+    "package": "shinythemes",
+    "url": "https://github.com/rstudio/shinythemes"
+  },
+  {
+    "package": "shinyvalidate",
+    "url": "https://github.com/rstudio/shinyvalidate"
+  },
+  {
+    "package": "thematic",
+    "url": "https://github.com/rstudio/thematic"
+  },
+  {
+    "package": "webdriver",
+    "url": "https://github.com/rstudio/webdriver"
+  },
+  {
+    "package": "websocket",
+    "url": "https://github.com/rstudio/websocket"
+  },
+  {
+    "package": "plotly",
+    "url": "https://github.com/ropensci/plotly"
+  },
+  {
+    "package": "shinyjster",
+    "url": "https://github.com/schloerke/shinyjster"
+  },
+  {
+    "package": "httpgd",
+    "url": "https://github.com/nx10/httpgd"
+  }
+]
