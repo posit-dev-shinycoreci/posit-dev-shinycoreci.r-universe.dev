@@ -122,9 +122,5 @@
   {
     "package": "shinyjster",
     "url": "https://github.com/schloerke/shinyjster"
-  },
-  {
-    "package": "httpgd",
-    "url": "https://github.com/nx10/httpgd"
   }
 ]
